@@ -32,12 +32,4 @@ To run this notebook:
 2. Open the Jupyter Notebook in an environment that supports Python and Jupyter (like Anaconda or JupyterLab).
 3. Run the notebook cells sequentially to see the output and anomaly detection results.
 
-## Contributing
-Contributions to this project are welcome. You can suggest improvements or add new features by opening an issue or submitting a pull request.
 
-## License
-This project is open-sourced under the MIT license.
-
----
-
-Enjoy testing and improving your anomaly detection model!
